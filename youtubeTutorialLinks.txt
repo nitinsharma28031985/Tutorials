@@ -1,0 +1,8 @@
+How to Install and Run MongoDb on Windows with path set up
+#https://www.youtube.com/watch?v=KLdHHa2XS8M
+#https://www.youtube.com/watch?v=pWbMrx5rVBE
+
+Simple Commands:
+1) Show dbs   --- For all database
+2) use table_name  -- For select particaular table
+3) db  --- For to check what current database is it?
